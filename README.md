@@ -17,8 +17,3 @@ I box, run, and watch a lot of film and sports.
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=cjay-m&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cjay-m&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cjay-m&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
