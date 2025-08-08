@@ -1,6 +1,6 @@
 ## 👋 About Me
 I'm a full-stack engineer passionate about infrastructure, AI systems, and building tools with real-world impact. Currently building Hanasu Club, an English-learning platform for Japanese students, with a robust scheduling system and tutor catalog.
-Previously:
+# Previously:
 🔹 Built DCIM tools at Equinix
 🔹 SWE Intern at Apple
 
