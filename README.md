@@ -4,10 +4,6 @@ I'm a full-stack engineer passionate about infrastructure, AI systems, and build
 🔹 Built DCIM tools at Equinix
 🔹 SWE Intern at Apple
 
-## 🛠 Tech Stack
-Languages & Frameworks: Python, JavaScript, TypeScript, React, Next.js
-Styling & Tools: TailwindCSS, Figma, Notion, Vercel
-Databases: MySQL, PostgreSQL
 # 📚 Currently Learning
 AI infrastructure, AI factories, and systems at scale.
 # 🎯 Outside of Code
