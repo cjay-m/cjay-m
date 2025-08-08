@@ -1,6 +1,17 @@
-# 💫 About Me:
-I am currently working on Hanasu Club, an English Learning platform for Japanese Students<br>I love Boxing, Running, Films, and Sports<br>Tech Stack: Python, JavaScript, TypeScript, TailwindCSS, MySQL, PostGreSQL, Notion, Figma, Vercel, Next.JS, React<br>
+## 👋 About Me
+I'm a full-stack engineer passionate about infrastructure, AI systems, and building tools with real-world impact. Currently building Hanasu Club, an English-learning platform for Japanese students, with a robust scheduling system and tutor catalog.
+Previously:
+🔹 Built DCIM tools at Equinix
+🔹 SWE Intern at Apple
 
+## 🛠 Tech Stack
+Languages & Frameworks: Python, JavaScript, TypeScript, React, Next.js
+Styling & Tools: TailwindCSS, Figma, Notion, Vercel
+Databases: MySQL, PostgreSQL
+# 📚 Currently Learning
+AI infrastructure, AI factories, and systems at scale.
+# 🎯 Outside of Code
+I box, run, and watch a lot of film and sports.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/christian-jay-montalvo) 
